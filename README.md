@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/dopewind">
+<a href="https://twitter.com/invverted">
   <img align="left" alt="Karthik Vinayan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -27,7 +27,7 @@ Hi, I'm [Karthik](https://dopewind.github.io), an aspiring student from from Ind
 - 👨🏽‍💻 I’m currently working on something every other lame thing :wink:
 - 🌱 I’m currently learning Python, Javascript and Flutter
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@dopewind](https://twitter.com/dopewind)
+- 📫 How to reach me: [@invverted](https://twitter.com/invverted)
 
 **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
