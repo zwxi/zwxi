@@ -14,7 +14,7 @@
   <img align="left" alt="Karthik's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dopewind.dopewind)
+![](https://komarev.com/ghpvc/?username=dopewind)
 
 <br />
  <img align="right" alt="GIF" src="https://github.com/dopewind/dopewind/blob/master/code.gif?raw=true" width="500" height="320" />
