@@ -33,10 +33,10 @@ Hi, I'm [Karthik](https://nexus-codes.github.io), an aspiring student from from 
 ## 📈 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" style="height: 180;width: 180;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-codes&theme=radical" />
+  <img style="height: 180;width: 180;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-codes&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=nexus-codes&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nexus-codes&count_private=true&theme=radical" />
 </a>
 
 
