@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/thatNexus">
-  <img align="left" alt="Karthik Vinayan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ <i class="fa-brands fa-twitter"></i>
 </a>
 
 ![](https://komarev.com/ghpvc/?username=nexus-codes)
