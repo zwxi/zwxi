@@ -1,9 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/thatNexus">
- <i class="fa-brands fa-twitter"></i>
-</a>
-
 ![](https://komarev.com/ghpvc/?username=nexus-codes)
 
 <br />
@@ -37,7 +33,7 @@ Hi, I'm [Karthik](https://nexus-codes.github.io), an aspiring student from from 
 ## 📈 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" style="height: 200;width: 200;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-codes&theme=radical" />
+  <img align="right" style="height: 180;width: 180;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nexus-codes&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nexus-codes&count_private=true&theme=radical" />
