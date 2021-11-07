@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](twitter.com/LordKarthik)
+
 ![](https://komarev.com/ghpvc/?username=nexus-codes)
 
 <br />
@@ -28,7 +28,7 @@ Hi, I'm [Karthik](https://nexus-codes.github.io), an aspiring student from from 
 
 <br />
 
-
+![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](twitter.com/LordKarthik) [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](instagram.com/lord.karthik) [![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](bit.do/kindasus)
 
 ## 📈 GitHub Stats
 
