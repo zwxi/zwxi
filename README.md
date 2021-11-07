@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](twitter.com/LordKarthik)
 ![](https://komarev.com/ghpvc/?username=nexus-codes)
 
 <br />
@@ -12,9 +12,8 @@ Hi, I'm [Karthik](https://nexus-codes.github.io), an aspiring student from from 
 
 - 👨🏽‍💻 I’m currently working on something every other lame thing :wink:
 - 🌱 I’m currently learning Python, Javascript and Flutter
-- 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: 
-   - [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](twitter.com/LordKarthik)
+- 💬 Ask me about anything, I am happy to help 
+
 
 **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
