@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=nexus-codes)
 
 <br />
- <img align="right" alt="GIF" src="https://github.com/dopewind/dopewind/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/nexus-codes/nexus-codes/blob/master/code.gif?raw=true" width="500" height="320" />
 
 Hi, I'm [Karthik](https://nexus-codes.github.io), an aspiring student from from India 🚀
 
@@ -13,7 +13,7 @@ Hi, I'm [Karthik](https://nexus-codes.github.io), an aspiring student from from 
 - 👨🏽‍💻 I’m currently working on something every other lame thing :wink:
 - 🌱 I’m currently learning Python, Javascript and Flutter
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@thatNexus](https://twitter.com/thatNexus)
+- 📫 How to reach me: [![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](twitter.com/LordKarthik)
 
 **Languages and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
