@@ -28,9 +28,7 @@ Hi, I'm [Karthik](https://zxwi.github.io), an aspiring student from from India ð
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 
-<br />
 
-[![Twitter](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Twitter)](https://www.twitter.com/LordKarthik) [![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/lord.karthik) [![YouTube](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=YouTube)](https://www.bit.do/kindasus)
 
 ## ðŸ“ˆ GitHub Stats
 
