@@ -33,4 +33,4 @@ Hi, I'm [Karthik](https://zxwi.github.io), an aspiring student from from India ð
 ## ðŸ“ˆ GitHub Stats
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwxi&show_icons=true&theme=radical)
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/zwxi/zwxi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
