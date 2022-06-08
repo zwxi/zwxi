@@ -5,7 +5,7 @@
 <!-- markdownlint-disable MD046 -->
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there 
 
 ![profile visit](https://komarev.com/ghpvc/?username=zxwi)
 
@@ -33,3 +33,4 @@ Hi, I'm [Karthik](https://zxwi.github.io), an aspiring student from from India ð
 ## ðŸ“ˆ GitHub Stats
 
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwxi&show_icons=true&theme=radical)
+
