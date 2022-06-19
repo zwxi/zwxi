@@ -13,7 +13,7 @@ Hi, I'm [Karthik](https://zxwi.github.io), an aspiring student from from India �
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something every other lame thing :wink:
+- 👨🏽‍💻 I’m currently exploring every other lame thing :wink:
 - 🌱 I’m currently learning Python, Javascript and Flutter
 - 💬 Ask me about anything, I am happy to help
 
