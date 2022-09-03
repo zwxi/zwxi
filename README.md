@@ -9,7 +9,7 @@
 
 ![profile visit](https://komarev.com/ghpvc/?username=zxwi)
 
-Hi, I'm [Karthik](https://zxwi.github.io), an aspiring student from from India 🚀
+Hi, I'm Karthik, an aspiring student from from India 🚀
 
 **Talking about Personal Stuffs:**
 
