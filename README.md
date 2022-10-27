@@ -32,6 +32,6 @@ Hi, I'm Karthik, an aspiring student from from India 🚀
 
 ## 📈 GitHub Stats
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/zwxi/zwxi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/nexuswho/nexuswho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwxi&show_icons=true&theme=radical)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexuswho&show_icons=true&theme=radical)
